@@ -37,10 +37,10 @@ A continuación puede verse una vista previa del resultado de este flow.
 ![](Images/result.png)
 
 # Créditos
-Desarrollado por Leonardo Noriega
+Desarrollado por Leonardo Noriega.
 - [GitHub](https://github.com/Leo-Noriega)
 
-Clase intruida por Hugo Escalpelo
+Clase instruida por Hugo Escalpelo.
 - [hugoescalpelo.com](https://hugoescalpelo.com/)
 - [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
 - [GitHub](https://github.com/hugoescalpelo)
