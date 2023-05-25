@@ -30,6 +30,7 @@ Pasos a seguir para que utilizar el flow del actual repositorio
 
 ### Instrucciones de operación
 Para observar el resutlado de este flow, sólo es necesario abrir la pestaña Debug.
+![](Images/debug.png)
 
 ## Resultados
 A continuación puede verse una vista previa del resultado de este flow.
