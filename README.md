@@ -34,13 +34,13 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 ## Resultados
 A continuación puede verse una vista previa del resultado de este flow.
-![](https://github.com/hugoescalpelo/flow1-g10/blob/main/Captura%20de%20pantalla%20del%20flow%201.png?raw=true)
-
-## Evidencias
-- [YouTube](https://youtu.be/8U-K6bgMQwE)
+![](Images/result.png)
 
 # Créditos
-Desarrollado por Hugo Escalpelo
+Desarrollado por Leonardo Noriega
+- [GitHub](https://github.com/Leo-Noriega)
+
+Clase intruida por Hugo Escalpelo
 - [hugoescalpelo.com](https://hugoescalpelo.com/)
 - [Página en Facebook](https://www.facebook.com/Hugo-Escalpelo-Profesional-337708683840136)
 - [GitHub](https://github.com/hugoescalpelo)
